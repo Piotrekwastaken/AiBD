@@ -1,0 +1,2 @@
+file - plik z oryginalnymi danymi
+new_file - plik wynikowy z przetworzonymi danymi

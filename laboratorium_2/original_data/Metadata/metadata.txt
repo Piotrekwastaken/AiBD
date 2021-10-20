@@ -1,0 +1,3 @@
+Oryginalny plik został pobrany 13.10.2021
+Dane pochodzą ze strony https://fivethirtyeight.com/features/dear-mona-followup-where-do-people-drink-the-most-beer-wine-and-spirits/
+Zawierają ilość spożytego piwa, spirytusu i wina oraz całkowite spożycie alkoholu w 183 krajach
